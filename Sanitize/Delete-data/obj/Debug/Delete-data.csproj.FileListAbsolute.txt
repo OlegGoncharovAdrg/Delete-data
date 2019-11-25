@@ -1,0 +1,16 @@
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\bin\Debug\Delete-data.exe.config
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\bin\Debug\Delete-data.exe
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\bin\Debug\Delete-data.pdb
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete-data.csprojAssemblyReference.cache
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete_data.Form1.resources
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete_data.Properties.Resources.resources
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete-data.csproj.GenerateResource.cache
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete-data.csproj.CoreCompileInputs.cache
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete-data.exe
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete-data.pdb
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete-data.csproj.ResolveComReference.cache
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\bin\Debug\Delete-data.xml
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Interop.BASICFORMATTEDIOLib.dll
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\bin\Debug\Ivi.Visa.dll
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\bin\Debug\Ivi.Visa.xml
+C:\Users\GoncharovO\Desktop\Delete-data\Delete-data\obj\Debug\Delete-data.csproj.CopyComplete
